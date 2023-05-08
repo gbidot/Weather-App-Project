@@ -29,3 +29,5 @@ function displayWeatherData(data) {
         `;
     }
 }
+
+//confirming should be committed now
